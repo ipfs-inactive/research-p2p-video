@@ -1,3 +1,5 @@
+# Repo deprecated, please refer to the [notes repo instead](https://github.com/ipfs/notes)
+
 # 🎥 P2P Video Research
 
 > Repo to organize our ideas about research and implementations Video applications on top of IPFS and libp2p
